@@ -1,16 +1,25 @@
 -
-  title: Lidé
-  url: /lide/
+  title: Dostupnost
+  url: /doprava/
+  icon: fa-subway
+- 
+  title: Akce
+  url: /akce/
   icon: fa-users
--
-  title: O nás
-  url: /o-nas/
-  icon: fa-paperclip
--
-  title: Články
-  url: /clanky/
-  icon: fa-newspaper-o
+- 
+  title: Pravidla
+  url: /pravidla/
+  icon: fa-book
+- 
+  title: Kalendář
+  url: /kalendar/
+  icon: fa-calendar
 
+-
+  title: Praha.Pirati.cz
+  url: http://praha.pirati.cz
+  icon: fa-play
+  target: _blank
 -
   title: Pirati.cz
   url: http://www.pirati.cz

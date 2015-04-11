@@ -1,9 +1,8 @@
-title: Oblast Piráti
-baseurl: 
+title: Pirátské centrum Praha 
 default_locale: "cs"
 permalink: pretty
 markdown: kramdown
-facebookurl: https://www.facebook.com/pages/Pir%C3%A1ti-Praha-6/623900784396150?fref=ts
+facebookurl: https://www.facebook.com/pages/Pir%C3%A1tsk%C3%A9-centrum-Praha/1545902952301464
 gems:
   - jekyll-sitemap
   - i18n
