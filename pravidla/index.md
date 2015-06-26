@@ -48,17 +48,17 @@ Vařit tu nebudeme, v okolí je mnoho hospod, kde vaří polední menu.
 Ovšem donáška "veřejného" občerstvení je vítána
 
 [fórum]: https://forum.pirati.cz/kajuta-praha-f686/zadost-o-zarazeni-do-programu-t21961.html
-[Tobias Esner]: http://http://www.pirati.cz/lide/tobias_esner
-[Lukáš Černohorský, Vojtěch Pikal]: http://http://www.pirati.cz/rp/start
-[Ondřej Profant]: http://http://www.pirati.cz/lide/ondre_profant
-[Roman Kučera]: http://http://www.pirati.cz/lide/roman_kucera
-[Ondřej Marek]: http://http://www.pirati.cz/lide/ondrej_marek
-[Viktor Mahrik]: http://http://www.pirati.cz/lide/viktor_mahrik
-[Mikulas Ferjencik]: http://http://www.pirati.cz/lide/mikulas_ferjencik
-[Adam Zábranský]: http://http://www.pirati.cz/lide/adam_zabramsky
-[Jakub Michálek]: http://http://www.pirati.cz/lide/jakub_michalek
-[Janka Michailidu]: http://http://www.pirati.cz/lide/janka_michailidu
-[Lenka Wagnerová]: http://http://www.pirati.cz/lide/lenka_wagnerova
-[Michael Polák]: http://http://www.pirati.cz/lide/michael_polak
-[Mikuláš Peksa]: http://http://www.pirati.cz/lide/mikulas_peksa
-[Lukáš Findeis]: http://http://www.pirati.cz/lide/lukas_findeis
+[Tobias Esner]: http://www.pirati.cz/lide/tobias_esner
+[Lukáš Černohorský, Vojtěch Pikal]: http://www.pirati.cz/rp/start
+[Ondřej Profant]: http://www.pirati.cz/lide/ondre_profant
+[Roman Kučera]: http://www.pirati.cz/lide/roman_kucera
+[Ondřej Marek]: http://www.pirati.cz/lide/ondrej_marek
+[Viktor Mahrik]: http://www.pirati.cz/lide/viktor_mahrik
+[Mikulas Ferjencik]: http://www.pirati.cz/lide/mikulas_ferjencik
+[Adam Zábranský]: http://www.pirati.cz/lide/adam_zabramsky
+[Jakub Michálek]: http://www.pirati.cz/lide/jakub_michalek
+[Janka Michailidu]: http://www.pirati.cz/lide/janka_michailidu
+[Lenka Wagnerová]: http://www.pirati.cz/lide/lenka_wagnerova
+[Michael Polák]: http://www.pirati.cz/lide/michael_polak
+[Mikuláš Peksa]: http://www.pirati.cz/lide/mikulas_peksa
+[Lukáš Findeis]: http://www.pirati.cz/lide/lukas_findeis
