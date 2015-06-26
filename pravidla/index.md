@@ -19,13 +19,14 @@ Klíče od centra mají určení členové **RP a PKS Praha** a jimi pověřené
   * [Roman Kučera] - PKS Praha
   * [Ondřej Marek] - PKS Praha
   * [Viktor Mahrik] - PKS Praha
+  * [Lukáš Findeis] - Pks Praha
   * [Mikulas Ferjencik] - zastupitel
   * [Adam Zábranský] - zastupitel
   * [Jakub Michálek] - zastupitel
   * [Janka Michailidu] - Social Canabis Club
-  * [Lenka Wagnerová]
-  * [Michael Polák]
-  * [Mikuláš Peksa]
+  * [Lenka Wagnerová] - ???
+  * [Michael Polák] - Internet support
+  * [Mikuláš Peksa] - ZO - zahraniční akce
 
 ### Pořádání akcí
 
@@ -44,7 +45,7 @@ zapisuje odpovědná osoba (pořadatel, ten, kdo odmyká) – datum a čas pří
 ### Občerstvení:
 základem je sdílení :-), takže si buď noste své vlastní zásoby, nebo se podílejte na sdílení buď formou naturální (občas něco přineste) nebo peněžní (kasička). To se týká běžných věcí jako je káva, čaj, limonády, cukr, sušenky, chipsy...  
 Vařit tu nebudeme, v okolí je mnoho hospod, kde vaří polední menu.  
-Při akcích pijeme jen nealkoholické nápoje (nebude-li předem stanoveno jinak).
+Ovšem donáška "veřejného" občerstvení je vítána
 
 [fórum]: https://forum.pirati.cz/kajuta-praha-f686/zadost-o-zarazeni-do-programu-t21961.html
 [Tobias Esner]: http://http://www.pirati.cz/lide/tobias_esner
@@ -60,3 +61,4 @@ Při akcích pijeme jen nealkoholické nápoje (nebude-li předem stanoveno jina
 [Lenka Wagnerová]: http://http://www.pirati.cz/lide/lenka_wagnerova
 [Michael Polák]: http://http://www.pirati.cz/lide/michael_polak
 [Mikuláš Peksa]: http://http://www.pirati.cz/lide/mikulas_peksa
+[Lukáš Findeis]: http://http://www.pirati.cz/lide/lukas_findeis
