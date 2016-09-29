@@ -21,7 +21,7 @@ Klíče od centra mají určení členové **RP a PKS Praha** a jimi pověřené
   * [Lukáš Findeis] - Pks Praha
   * [Mikulas Ferjencik] - zastupitel
   * [Adam Zábranský] - zastupitel
-  * [Jakub Michálek] - zastupitel
+  * [Jakub Michálek] - zastupitel, RP
   * [Michael Polák] - Internet support
   * [Mikuláš Peksa] - ZO - zahraniční akce
   * [Pavel Majtáň] - SčK
@@ -29,6 +29,7 @@ Klíče od centra mají určení členové **RP a PKS Praha** a jimi pověřené
   * [Pavel Hájek] - PKS Praha
   * [Lenka Kozlová] - PKS SčK
   * [František Kopřiva] - PKS SčK
+  * [Elizabet Kovačeva] - asistent RP a AO
 
 ### Pořádání akcí
 
@@ -54,13 +55,16 @@ Ovšem donáška "veřejného" občerstvení je vítána
 [Ivan Bartoš]: http://www.pirati.cz/rp/start
 [Ondřej Profant]: http://www.pirati.cz/lide/ondre_profant
 [Roman Kučera]: http://www.pirati.cz/lide/roman_kucera
-[Ondřej Marek]: http://www.pirati.cz/lide/ondrej_marek
 [Viktor Mahrik]: http://www.pirati.cz/lide/viktor_mahrik
 [Mikulas Ferjencik]: http://www.pirati.cz/lide/mikulas_ferjencik
 [Adam Zábranský]: http://www.pirati.cz/lide/adam_zabramsky
 [Jakub Michálek]: http://www.pirati.cz/lide/jakub_michalek
-[Janka Michailidu]: http://www.pirati.cz/lide/janka_michailidu
-[Lenka Wagnerová]: http://www.pirati.cz/lide/lenka_wagnerova
 [Michael Polák]: http://www.pirati.cz/lide/michael_polak
 [Mikuláš Peksa]: http://www.pirati.cz/lide/mikulas_peksa
 [Lukáš Findeis]: http://www.pirati.cz/lide/lukas_findeis
+[Pavel Majtáň]: http://www.pirati.cz/lide/pavel_majtan
+[Michaela Krausová]: http://www.pirati.cz/lide/michaela_krausova
+[Pavel Hájek]: http://www.pirati.cz/lide/pavel_hajek
+[Lenka Kozlová]: http://www.pirati.cz/lide/lenka_kozlova
+[František Kopřiva]: http://www.pirati.cz/lide/frantisek_kopriva
+[Elizabet Kovačeva]: http://www.pirati.cz/lide/elizabet_kovaceva
