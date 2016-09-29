@@ -14,19 +14,21 @@ Všichni, kteří pobývají v centru, se zavazují dodržovat zde uvedená prav
 Klíče od centra mají určení členové **RP a PKS Praha** a jimi pověřené osoby.
 
   * [Tobias Esner] - Správce sídla
-  * [Lukáš Černohorský, Vojtěch Pikal] - RP
+  * [Ivan Bartoš] - RP
   * [Ondřej Profant] - PKS Praha, zastupitel
   * [Roman Kučera] - PKS Praha
-  * [Ondřej Marek] - PKS Praha
-  * [Viktor Mahrik] - PKS Praha
+  * [Viktor Mahrik] - SčK
   * [Lukáš Findeis] - Pks Praha
   * [Mikulas Ferjencik] - zastupitel
   * [Adam Zábranský] - zastupitel
   * [Jakub Michálek] - zastupitel
-  * [Janka Michailidu] - Social Canabis Club
-  * [Lenka Wagnerová] - ???
   * [Michael Polák] - Internet support
   * [Mikuláš Peksa] - ZO - zahraniční akce
+  * [Pavel Majtáň] - SčK
+  * [Michaela Krausová] - Koordinátor dobrovolníků Praha
+  * [Pavel Hájek] - PKS Praha
+  * [Lenka Kozlová] - PKS SčK
+  * [František Kopřiva] - PKS SčK
 
 ### Pořádání akcí
 
@@ -49,7 +51,7 @@ Ovšem donáška "veřejného" občerstvení je vítána
 
 [fórum]: https://forum.pirati.cz/kajuta-praha-f686/zadost-o-zarazeni-do-programu-t21961.html
 [Tobias Esner]: http://www.pirati.cz/lide/tobias_esner
-[Lukáš Černohorský, Vojtěch Pikal]: http://www.pirati.cz/rp/start
+[Ivan Bartoš]: http://www.pirati.cz/rp/start
 [Ondřej Profant]: http://www.pirati.cz/lide/ondre_profant
 [Roman Kučera]: http://www.pirati.cz/lide/roman_kucera
 [Ondřej Marek]: http://www.pirati.cz/lide/ondrej_marek
